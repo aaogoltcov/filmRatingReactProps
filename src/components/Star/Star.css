@@ -1,0 +1,8 @@
+ul {
+    list-style-type: none;
+}
+
+.card-body-stars {
+    display: flex;
+    flex-direction: row;
+}
